@@ -15,17 +15,6 @@ Meal Explorer is a React Native mobile application that allows users to explore 
 
 - **Random Meal:** Get a random meal suggestion for a delightful surprise.
 
-
-## Screenshots
----Initial Page------
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-05 at 18 56 22](https://github.com/hakansndkc5/meal-recipe-app/assets/93510323/182f0821-aa3d-4b54-b59a-370b4533985a)
-------Categories Screen----
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-05 at 18 56 30](https://github.com/hakansndkc5/meal-recipe-app/assets/93510323/01f00ca3-e2a4-41d5-87c5-0dea4ab57c53)
-------Random Meal Screen-------
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-05 at 18 56 39](https://github.com/hakansndkc5/meal-recipe-app/assets/93510323/12f9c052-4147-42de-90be-712b16057544)
-
-
-
 ## Getting Started
 
 ### Prerequisites
